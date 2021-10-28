@@ -1,0 +1,16 @@
+{
+  "name": "nft-image-generater-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "jszip": "^3.7.1",
+    "merge-images": "^2.0.0"
+  }
+}

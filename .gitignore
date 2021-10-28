@@ -1,0 +1,4 @@
+/node_modules
+image/*
+imageList.zip
+!image/README.md
